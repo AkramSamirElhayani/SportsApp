@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.5.0)
+  - Cosmos (23.0.0)
+  - Reachability (3.2)
+  - SDWebImage (5.12.2):
+    - SDWebImage/Core (= 5.12.2)
+  - SDWebImage/Core (5.12.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - Cosmos (~> 23.0)
+  - Reachability
+  - SDWebImage (~> 5.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Cosmos
+    - Reachability
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  Cosmos: b5c6a9a637e28a061b54c8f8b1d8529d7d4db73f
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  SDWebImage: 240e5c12b592fb1268c1d03b8c90d90e8c2ffe82
+
+PODFILE CHECKSUM: 5611f87ed3f2b7d3a7179a048e7bbce78095bd9f
+
+COCOAPODS: 1.11.2
